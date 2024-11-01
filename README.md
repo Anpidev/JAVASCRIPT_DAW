@@ -1,2 +1,2 @@
 # JAVASCRIPT_DAW
-Entornos cliente DAW
+JavaScript tanto para entorno cliente como entorno servidor
